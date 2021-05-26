@@ -3,16 +3,17 @@ body {
     color:white;
     font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
    
-    background-repeat: no-repeat;
-    background-size: cover;
+  
 }
 
 html { 
-  background-image: url("/pexels-markus-spiske-2004161.jpg") no-repeat center center fixed; 
+  background-image: url("/pexels-markus-spiske-2004161.jpg")  
   -webkit-background-size: cover;
   -moz-background-size: cover;
   -o-background-size: cover;
   background-size: cover;
+      background-repeat: no-repeat;
+    background-size: cover;
 }
 
 
