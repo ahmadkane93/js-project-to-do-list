@@ -1,20 +1,11 @@
 body {
-/*     background-color: rgb(68, 5, 109); */
+    background-color: rgb(68, 5, 109);
     color:white;
     font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
    
   
 }
 
-html { 
-  background-color:black;  
-  -webkit-background-size: cover;
-  -moz-background-size: cover;
-  -o-background-size: cover;
-  background-size: cover;
-      background-repeat: no-repeat;
-    background-size: cover;
-}
 
 
 
